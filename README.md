@@ -1,2 +1,10 @@
 # nlw-expers
-quiz desenvolvido durante o evento NLW da RockeSeat
+quiz desenvolvido durante o evento NLW da Rocketseat
+
+## Tecnologias  Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Github
+
