@@ -39,8 +39,8 @@ header h1{
 
 header img{
     background-color: #3030ed;
-    border-radius: 50%;
-    padding: 8px;
+    border-radius: 42%;
+    padding: 8px 18px;
 }
 
 #quiz{
